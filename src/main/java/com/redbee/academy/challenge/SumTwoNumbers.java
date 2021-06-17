@@ -24,6 +24,7 @@ public class SumTwoNumbers {
     else {
       suma = a+b;
     }
+    System.out.println(suma);
     return suma;
   }
 }
